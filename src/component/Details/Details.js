@@ -2,11 +2,15 @@ import React from 'react';
 import { useHistory } from 'react-router';
 import './Deteails.css'
 const Details = (props) => {
-    const history=useHistory()
+    const history=useHistory();
+    
     const {name,amount,language,photo,id}=props.corse;
     const handlar=()=>{
         history.push(`/detail/${id}`)
-     }
+     };
+     const handlarAmount=()=>{
+        history.push(`/enroll/${id}`)
+     };
     return (
         <div className="col-xl-3 col-md-3 col-sm-12  p-2 text-center">
         <div className="cart-style">
@@ -17,7 +21,7 @@ const Details = (props) => {
             <div className="d-flex justify-content-between p-5">
             <button className="btn btn-danger" onClick={handlar}>Details</button>
              
-            <button className="btn btn-primary">Confrom</button>
+            <button onClick={handlarAmount} className="btn btn-primary">Confrom</button>
 
             </div>
             </div>

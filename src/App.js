@@ -7,8 +7,9 @@ import About from './component/About/About';
 import Enrolling from './component/Enrolling/Enrolling';
 import NotFound from './component/NotFound/NotFound';
 import Services from './component/Services/Services';
-import Details from './component/Details/Details';
+
 import New from './component/new/New';
+import Success from './component/Success/Success';
 
 function App() {
   return (
@@ -28,12 +29,18 @@ function App() {
        <Route path="/services">
          <Services></Services>
       </Route>
-       <Route path="/enroll">
-         <Enrolling></Enrolling>
-      </Route>
+      <Route exact path="/enroll">
+       <Enrolling></Enrolling>
+       </Route>
      <Route path="/detail/:code">
        <New></New>
      </Route>
+     <Route path="/enroll/:num">
+       <Enrolling></Enrolling>
+       </Route>
+       <Route path="/complite">
+         <Success></Success>
+       </Route>
        <Route path="/*">
            <NotFound></NotFound>
       </Route>
