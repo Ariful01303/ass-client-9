@@ -4,70 +4,88 @@
            "name": "Web Development",
            "language": "Bangla",
            "amount": "4200",
-           "contact": "92456501",
+           "id": "924565010",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
          },
           {
            "name": "Web Design",
             "language": "Bangla",
            "amount": "3000",
-           "contact": "92456501",
+           "id": "924565011",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://image.freepik.com/free-vector/web-design-landing-page-template_52683-18357.jpg"
          },
           {
            "name": "Game Development",
            "language": "Bangla",
            "amount": "4000",
-           "contact": "92456501",
+           "id": "924565012",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://codelivly.com/wp-content/uploads/2021/08/The-steps-of-game-developing-01-1.jpeg"
          },
           {
            "name": "Ethical-Haking",
            "language": "Bangla",
            "amount": "3500",
-           "contact": "92456501",
+           "id": "924565013",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://www.astatraining.com/wp-content/uploads/2020/03/what-is-an-ethical-hacker.jpg"
          },
           {
            "name": "Cpa Merketing",
            "language": "Bangla",
            "amount": "3200",
-           "contact": "92456501",
+           "id": "924565014",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://mrfaruque.com/wp-content/uploads/2021/04/cpa-marketing.jpg"
          },
           {
            "name": "Affiliate marketing",
            "language": "Bangla",
            "amount": "3000",
-           "contact": "92456501",
+           "id": "924565015",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://www.cloudways.com/blog/wp-content/uploads/Earning-Passive-Income-T-1280x720.jpg"
          },
           {
            "name": "Grafic Design",
            "language": "Bangla",
            "amount": "4500",
-           "contact": "92456501",
+           "id": "924565016",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/1071218_Graphic-Design.jpg"
          },
           {
            "name": "SEO",
            "language": "Bangla",
            "amount": "4200",
-           "contact": "92456501",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
+           "id": "924565017",
           "photo": "https://neilpatel.com/wp-content/uploads/2021/01/19-SEO-tips-to-double-search-traffic-.jpg"
          },
           {
            "name": "Facbook Marketting",
            "language": "Bangla",
            "amount": "2200",
-           "contact": "92456501",
+           "id": "924565018",
+           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://cdn.twistarticle.com/wp-content/uploads/2020/01/The-Importance-Of-Facebook-Marketing-In-The-Digital-World.jpg"
          },
           {
            "name": "Digital Marketing",
            "language": "Bangla",
            "amount": "2500",
-           "contact": "92456501",
+           "id": "924565019",
           "photo": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png"
          }
          

@@ -34,7 +34,9 @@ const Services = () => {
          <div className="d-flex row">
             <h2>OUR <span className="text-col">COURSES</span></h2>
             {
-              displaycarts.map(cart=><Details corse={cart}></Details>)
+              displaycarts.map(cart=><Details
+                key={cart.id}
+                corse={cart}></Details>)
             }
         </div>
         </div>
