@@ -1,4 +1,4 @@
-### Learn And Earn
+# Learn And Earn
 
 Website Link [Just Click](https://laughing-swartz-e3b539.netlify.app).
 
