@@ -23,6 +23,7 @@ const Enrolling = () => {
    
     return (
         <div className="text-center m-5">
+            <img className="w-25 m-5" src={enroll?.photo} alt="" />
             <h2>You learn <span className="text-col"> {enroll?.name}</span></h2>
             <h2>amount : <span className="fs-1">৳</span>{enroll?.amount}</h2>
             <button onClick={btnhandlar} className="btn btn-primary">Add To carft</button>
