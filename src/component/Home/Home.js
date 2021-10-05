@@ -9,7 +9,7 @@ const Home = () => {
      .then(data=>setCorses(data))
     },[])
     return (
-        <div className="container">
+        <div className="container p-5">
             <h2>OUR <span className="text-col">COURSES</span></h2>
             <div className="d-flex row">
             

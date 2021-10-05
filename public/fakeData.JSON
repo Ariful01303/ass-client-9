@@ -3,7 +3,8 @@
         {
            "name": "Web Development",
            "language": "Bangla",
-           "amount": "4200",
+           "amount": "5500",
+           "start":"1st December 2022",
            "id": "924565010",
            "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
@@ -13,6 +14,7 @@
            "name": "Web Design",
             "language": "Bangla",
            "amount": "3000",
+           "start":"1st March 2022",
            "id": "924565011",
            "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
@@ -22,8 +24,9 @@
            "name": "Game Development",
            "language": "Bangla",
            "amount": "4000",
+           "start":"1st April 2022",
            "id": "924565012",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely talented Game Developer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://codelivly.com/wp-content/uploads/2021/08/The-steps-of-game-developing-01-1.jpeg"
          },
@@ -31,8 +34,9 @@
            "name": "Ethical-Haking",
            "language": "Bangla",
            "amount": "3500",
+           "start":"1st March 2022",
            "id": "924565013",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely Ethical-Haker who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://www.astatraining.com/wp-content/uploads/2020/03/what-is-an-ethical-hacker.jpg"
          },
@@ -40,8 +44,9 @@
            "name": "Cpa Merketing",
            "language": "Bangla",
            "amount": "3200",
+           "start":"1st February 2022",
            "id": "924565014",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely talented Cpa Merketer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://mrfaruque.com/wp-content/uploads/2021/04/cpa-marketing.jpg"
          },
@@ -49,8 +54,9 @@
            "name": "Affiliate marketing",
            "language": "Bangla",
            "amount": "3000",
+           "start":"1st Januarary 2022",
            "id": "924565015",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely talented Affiliate marketer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://www.cloudways.com/blog/wp-content/uploads/Earning-Passive-Income-T-1280x720.jpg"
          },
@@ -58,8 +64,9 @@
            "name": "Grafic Design",
            "language": "Bangla",
            "amount": "4500",
+           "start":"1st April 2022",
            "id": "924565016",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely talented Grafic Designer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/1071218_Graphic-Design.jpg"
          },
@@ -67,7 +74,8 @@
            "name": "SEO",
            "language": "Bangla",
            "amount": "4200",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "start":"1st March 2022",
+           "detail":"We are team of extremely talented SEO specillest who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
            "id": "924565017",
           "photo": "https://neilpatel.com/wp-content/uploads/2021/01/19-SEO-tips-to-double-search-traffic-.jpg"
@@ -76,8 +84,9 @@
            "name": "Facbook Marketting",
            "language": "Bangla",
            "amount": "2200",
+           "start":"1st Jan 2022",
            "id": "924565018",
-           "detail":"We are team of extremely talented web and mobile app developers who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           "detail":"We are team of extremely talented Facbook Marketer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
            ,
           "photo": "https://cdn.twistarticle.com/wp-content/uploads/2020/01/The-Importance-Of-Facebook-Marketing-In-The-Digital-World.jpg"
          },
@@ -85,8 +94,170 @@
            "name": "Digital Marketing",
            "language": "Bangla",
            "amount": "2500",
+           "start":"1st Feb 2022",
            "id": "924565019",
+           "detail":"We are team of extremely talented Digital Marketer who have come together to build exceptional software for our clients all over the world. Our goal is to build the future for our clients, helping them automate their businesses, engage their customers and change the world. We will be your trusted tech partner, bringing your idea to reality"
+           ,
           "photo": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png"
-         }
-         
-]
+         },
+       
+        
+   
+    
+    {
+    "name": "Janker Mahbub",
+    "title": "Developer Programming Hero",
+    "contact": "1789560",
+    "pictur":"https://courstika.com/wp-content/uploads/2020/12/Jhankar-Mahbub.jpg"
+},
+
+ {
+    "name": "Liam",
+    "title": "Web Designer",
+    "contact": "1789561",
+    "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2fFBJ73BugyjcLfgeh3BS-f6tdNUo_5zN0A&usqp=CAU"
+},
+
+ {
+    "name": "Olive",
+    "title": "Game Developer",
+    "contact": "1789562",
+    "pictur":"https://www.hubspot.com/hubfs/what-is-digital-marketing-2.jpg"
+},
+
+ {
+    "name": "William",
+    "title": "Ethical-Haker",
+    "contact": "1789563",
+    "pictur":"https://hard-drive.net/wp-content/uploads/2021/02/developer.jpg"
+},
+
+ {
+    "name": "James",
+    "title": "Programming Hero",
+    "contact": "1789564",
+    "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwx4B9U0TtLcuxZzuvRdhaV36BmW2mNgEVzg&usqp=CAU"
+},
+
+ {
+    "name": "Benjamin",
+    "title": "Cpa Merketer",
+    "contact": "1789565",
+    "pictur":"https://www.service4money.com/pics/2021/04/08/i-will-do-clickbank-amazon-link-promotion-cpa-marketing-266059.png"
+},
+
+ {
+    "name": "Lucas",
+    "title": "Affiliate marketer",
+    "contact": "1789566",
+    "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4Dyu1Crcb2EGFKVoeUGBBSLGs3pdSn_juQ&usqp=CAU"
+},
+
+ {
+    "name": "Oliver",
+    "title": "Grafic Designer",
+    "contact": "1789567",
+    "pictur":"https://www.freshbooks.com/blog/wp-content/uploads/2020/05/affiliate-marketing.jpg"
+},
+
+{
+    "name": "Henry",
+    "title": "SEO specilist",
+    "contact": "1789568",
+    "pictur":"https://www.uscreen.tv/wp-content/uploads/2020/09/man-doing-marketing-e1603451091359.jpg"
+},
+
+{
+    "name": "Alexander",
+    "title": "FaceBook Marketer",
+    "contact": "1789569",
+    "pictur":"https://cbdorigin.com/wp-content/uploads/2018/01/best-cbd-affiliate-programs-2019-min.jpg"
+},
+
+{
+    "name": "Isabella",
+    "title": "Digital Marketer",
+    "contact": "1789570",
+    "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7rZZ4JehX6IjXAj-enFPeMU0gowTyyLRTbEb8wlJZ8D2Sa55IvR_mFfAZsfjpq0wXvI&usqp=CAU"
+}
+,
+     
+{
+    
+        "title": "Web Developer ",
+        "batch": "1789560",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfyjXjrUBOHPAWwLAdPg0aih6qkXj7JaE0tg&usqp=CAU"
+    },
+    
+     {
+       
+        "title": "Web Designer",
+        "batch": "1789561",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDiugI1o_AWQwNml_N8QgtWIOpZIk7bgHSmcBtX6CF2Vqj2WNIVntS4Ioc2ka20CjyNY&usqp=CAU"
+    },
+    
+     {
+        
+        "title": "Game Developer",
+        "batch": "1789562",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToi25sHzPRSCVrEBEhbXg6AmhB9QMDGSu3w1CMR1Jiubu-hR3_fmo6icKqP898OwpzqQo&usqp=CAU"
+    },
+    
+     {
+       
+        "title": "Ethical-Haker",
+        "batch": "1789563",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xikUfs-gswV_8Yw0UeOjn9MXKD091wg5F8e1gn79pt3KP944bVmKcjTzloCZzqHugIg&usqp=CAU"
+    },
+    
+     {
+      
+        "title": "Programming Hero",
+        "batch": "1789564",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGuEXVGqSaXN_sVwgEaRcI2GwNGMtSqwE0wCM6o6J3TI7SMabWJIfhgswyVrBX-Guzjo&usqp=CAU"
+    },
+    
+     {
+       
+        "title": "Cpa Merketer",
+        "batch": "1789565",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaza17SGWDa-kNAdP1X8NQNUY2gIN5A8v8Hqy2bk1ENud13Orn63nu93Kmya6IfAV6hYY&usqp=CAU"
+    },
+    {
+       
+        "title": "Affiliate marketer",
+        "batch": "1789566",
+        "pictur":"https://developers.google.com/community/gdg/images/stories/korea-campus.jpg"
+    },
+    
+     {
+        
+        "title": "Grafic Designer",
+        "batch": "1789567",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-MwFE5EbAeujk7pDEAPA3e1ln2cqM5mCQFy-RMrGWaLYp5YRHnZx7RZly9i5brz8q1U&usqp=CAU"
+    },
+    
+    {
+        
+        "title": "SEO specilist",
+        "batch": "1789568",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt0aKAKGnvRpeRHTs_XKs7cJB2pQmepOO0cHjgfcEJz5Es4d317bLGauVStQF8w0Lntk&usqp=CAU"
+    },
+    
+    {
+      
+        "title": "FaceBook Marketer",
+        "batch": "1789569",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3-p30iD59hDA5PK_6Ga3hFrV_SjI1mlHTf_246G9N11RjrcYZvqPH7Mdv49ZQB5drHY&usqp=CAU"
+    },
+    
+    {
+      
+        "title": "Digital Marketer",
+        "batch": "1789570",
+        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmO3UaagZY7YZST9PXmR9qXoGiVzKQ0HNJqw45pqzIe3JCxhL2wVGBoBd6yfPpvxHZw&usqp=CAU"
+    }
+    
+
+    
+]     

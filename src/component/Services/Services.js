@@ -30,11 +30,11 @@ const Services = () => {
                     onChange={handleSearch}
                     placeholder="Search Course" />
             </div>
-        <div className="container">
+        <div className="container p-3">
          <div className="d-flex row">
             <h2>OUR <span className="text-col">COURSES</span></h2>
             {
-              displaycarts.map(cart=><Details
+              displaycarts.slice(0,10).map(cart=><Details
                 key={cart.id}
                 corse={cart}></Details>)
             }

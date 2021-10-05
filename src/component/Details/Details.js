@@ -4,25 +4,24 @@ import './Deteails.css'
 const Details = (props) => {
     const history=useHistory();
     
-    const {name,amount,language,photo,id}=props.corse;
+    
+    const {name,amount,language,photo,id,start}=props.corse;
     const handlar=()=>{
         history.push(`/detail/${id}`)
      };
-     const handlarAmount=()=>{
-        history.push(`/enroll/${id}`)
-     };
+    
     return (
-        <div className="col-xl-3 col-md-3 col-sm-12  p-2 text-center">
+        <div className="col-xl-3 col-md-3 col-sm-12 p-2 text-center">
         <div className="cart-style">
             <img className="img-fluid" src={photo} alt="" />
             <h4>{name}</h4>
-            <h4>Language: {language}</h4>
-            <h4>Amount: <span className="fs-1">৳</span> {amount}</h4>
-            <div className="d-flex justify-content-between p-5">
-            <button className="btn btn-danger" onClick={handlar}>Details</button>
+            <p>Language: {language}</p>
+            <p>Corse Start: <span className=" text-col">{start}</span></p>
+            <p>Amount: ৳ {amount}</p>
+            <div className="  p-4">
+            <button className="btn btn-danger text-center" onClick={handlar}>View Details</button>
              
-            <button onClick={handlarAmount} className="btn btn-primary">Confrom</button>
-
+           
             </div>
             </div>
             
