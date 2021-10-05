@@ -1,5 +1,5 @@
 import React from 'react';
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 import Student from '../student/Student';
 
 const About = () => {
@@ -16,12 +16,12 @@ const About = () => {
             <h2>About us</h2>
             <p>Education Inform is our passionate area.We love to share Our knowledge with other peoples. That's why We open this Web site and We share our knowledge here. All Student got help this site.  So all people stay with us and enjoy Our corses.</p>
         </div>
-        
+       
         
        <div>
         <h2 className="text-col text-center pt-5">Happy Student</h2>
             {
-                students.slice(10,21).map(student=><Student
+                students.slice(21,32).map(student=><Student
                     key={student.batch}
                     student={student}></Student>)
             }

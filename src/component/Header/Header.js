@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import logo from '../../image/Learn and earn.png'
 import "./Header.css"
 const Header = () => {
@@ -7,10 +7,12 @@ const Header = () => {
         <div className="header-style d-flex justify-content-between align-items-center">
             <img src={logo} alt=""/>
             <nav>
-               <NavLink to="/home">Home</NavLink>
-               <NavLink to="/about">About</NavLink>
-               <NavLink to="/services">Services</NavLink>
-               <NavLink to="/teachers">Our Teachers</NavLink>
+               <Link to="/home">Home</Link>
+               
+               <Link to="/services">Services</Link>
+               <Link to="/about">About Us</Link>
+               <Link to="/teachers">Our Teachers</Link>
+            
             </nav>
         </div>
     );

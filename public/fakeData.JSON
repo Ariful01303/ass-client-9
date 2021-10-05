@@ -184,78 +184,71 @@
      
 {
     
-        "title": "Web Developer ",
-        "batch": "1789560",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfyjXjrUBOHPAWwLAdPg0aih6qkXj7JaE0tg&usqp=CAU"
+        "student": "Web Developer ",
+        "batch": "10",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDiugI1o_AWQwNml_N8QgtWIOpZIk7bgHSmcBtX6CF2Vqj2WNIVntS4Ioc2ka20CjyNY&usqp=CAU"
     },
     
      {
        
-        "title": "Web Designer",
-        "batch": "1789561",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDiugI1o_AWQwNml_N8QgtWIOpZIk7bgHSmcBtX6CF2Vqj2WNIVntS4Ioc2ka20CjyNY&usqp=CAU"
+        "student": "Web Designer",
+        "batch": "11",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfyjXjrUBOHPAWwLAdPg0aih6qkXj7JaE0tg&usqp=CAU"
     },
     
      {
         
-        "title": "Game Developer",
-        "batch": "1789562",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToi25sHzPRSCVrEBEhbXg6AmhB9QMDGSu3w1CMR1Jiubu-hR3_fmo6icKqP898OwpzqQo&usqp=CAU"
+        "student": "Game Developer",
+        "batch": "12",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToi25sHzPRSCVrEBEhbXg6AmhB9QMDGSu3w1CMR1Jiubu-hR3_fmo6icKqP898OwpzqQo&usqp=CAU"
     },
     
      {
        
-        "title": "Ethical-Haker",
-        "batch": "1789563",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xikUfs-gswV_8Yw0UeOjn9MXKD091wg5F8e1gn79pt3KP944bVmKcjTzloCZzqHugIg&usqp=CAU"
+        "student": "Ethical-Haker",
+        "batch": "13",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xikUfs-gswV_8Yw0UeOjn9MXKD091wg5F8e1gn79pt3KP944bVmKcjTzloCZzqHugIg&usqp=CAU"
     },
     
-     {
-      
-        "title": "Programming Hero",
-        "batch": "1789564",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGuEXVGqSaXN_sVwgEaRcI2GwNGMtSqwE0wCM6o6J3TI7SMabWJIfhgswyVrBX-Guzjo&usqp=CAU"
-    },
-    
-     {
+    {
        
-        "title": "Cpa Merketer",
-        "batch": "1789565",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaza17SGWDa-kNAdP1X8NQNUY2gIN5A8v8Hqy2bk1ENud13Orn63nu93Kmya6IfAV6hYY&usqp=CAU"
+        "student": "Cpa Merketer",
+        "batch": "14",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaza17SGWDa-kNAdP1X8NQNUY2gIN5A8v8Hqy2bk1ENud13Orn63nu93Kmya6IfAV6hYY&usqp=CAU"
     },
     {
        
-        "title": "Affiliate marketer",
-        "batch": "1789566",
-        "pictur":"https://developers.google.com/community/gdg/images/stories/korea-campus.jpg"
+        "student": "Affiliate marketer",
+        "batch": "15",
+        "picture":"https://developers.google.com/community/gdg/images/stories/korea-campus.jpg"
     },
     
      {
         
-        "title": "Grafic Designer",
-        "batch": "1789567",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-MwFE5EbAeujk7pDEAPA3e1ln2cqM5mCQFy-RMrGWaLYp5YRHnZx7RZly9i5brz8q1U&usqp=CAU"
+        "student": "Grafic Designer",
+        "batch": "16",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-MwFE5EbAeujk7pDEAPA3e1ln2cqM5mCQFy-RMrGWaLYp5YRHnZx7RZly9i5brz8q1U&usqp=CAU"
     },
     
     {
         
-        "title": "SEO specilist",
-        "batch": "1789568",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt0aKAKGnvRpeRHTs_XKs7cJB2pQmepOO0cHjgfcEJz5Es4d317bLGauVStQF8w0Lntk&usqp=CAU"
+        "student": "SEO specilist",
+        "batch": "17",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpt0aKAKGnvRpeRHTs_XKs7cJB2pQmepOO0cHjgfcEJz5Es4d317bLGauVStQF8w0Lntk&usqp=CAU"
     },
     
     {
       
-        "title": "FaceBook Marketer",
-        "batch": "1789569",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3-p30iD59hDA5PK_6Ga3hFrV_SjI1mlHTf_246G9N11RjrcYZvqPH7Mdv49ZQB5drHY&usqp=CAU"
+        "student": "FaceBook Marketer",
+        "batch": "18",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3-p30iD59hDA5PK_6Ga3hFrV_SjI1mlHTf_246G9N11RjrcYZvqPH7Mdv49ZQB5drHY&usqp=CAU"
     },
     
     {
       
-        "title": "Digital Marketer",
-        "batch": "1789570",
-        "pictur":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmO3UaagZY7YZST9PXmR9qXoGiVzKQ0HNJqw45pqzIe3JCxhL2wVGBoBd6yfPpvxHZw&usqp=CAU"
+        "student": "Digital Marketer",
+        "batch": "19",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAmO3UaagZY7YZST9PXmR9qXoGiVzKQ0HNJqw45pqzIe3JCxhL2wVGBoBd6yfPpvxHZw&usqp=CAU"
     }
     
 

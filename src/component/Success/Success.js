@@ -1,9 +1,11 @@
 import React from 'react';
-
+import emage from '../../image/download.png'
 const Success = () => {
     return (
-        <div>
-            <h1 className="text-col text-center p-5">Congratulation on Our Course</h1>
+        <div className="m-5 container text-center" >
+            <img src={emage} alt="" />
+            <h1 className="text-col  "> to Our Course</h1>
+            
         </div>
     );
 };

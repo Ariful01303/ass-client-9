@@ -29,6 +29,7 @@ function App() {
        <Route path="/services">
          <Services></Services>
       </Route>
+     
       <Route path="/teachers">
         <Teacher></Teacher>
        </Route>

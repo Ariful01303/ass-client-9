@@ -1,5 +1,5 @@
 import React from 'react';
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 import Displayteacher from '../displauteaacher/Displayteacher';
 
 const Teacher = () => {
@@ -16,7 +16,7 @@ const Teacher = () => {
          <div className="d-flex row">
             <h2>OUR <span className="text-col">TEACHERS</span></h2>
             {
-                teachers.slice(10,32).map(teacher=><Displayteacher
+                teachers.slice(10,21).map(teacher=><Displayteacher
                     key={teacher.contact}
                     teacher={teacher}></Displayteacher>)
             }

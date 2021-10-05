@@ -18,10 +18,10 @@ const Services = () => {
     const handleSearch = event => {
         const searchText = event.target.value;
 
-        const matchedcarts = carts.filter(cart => cart.name.toLowerCase().includes(searchText.toLowerCase()));
+        const matchedcarts = carts.filter(cart => cart?.name?.toLowerCase().includes(searchText.toLowerCase()))
 
-        setDisplaycarts(matchedcarts);
-    }
+        setDisplaycarts(matchedcarts)
+    };
     return (
         <div>
          <div className="search-container">

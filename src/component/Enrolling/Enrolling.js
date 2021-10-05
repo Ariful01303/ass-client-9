@@ -1,6 +1,6 @@
 import React from 'react';
 import { useHistory, useParams } from 'react-router';
-import { useEffect, useState } from 'react/cjs/react.development';
+import { useEffect, useState } from 'react';
 
 const Enrolling = () => {
     let {num}=useParams();
